@@ -1,0 +1,26 @@
+header{
+display: grid;
+
+}
+.logo{
+        display: flex;
+        padding-block: 20px;
+        text-align: center;
+}
+.logo img{
+        width: 40px;
+        margin-left: 18px;        
+}
+
+.cabecalho{
+margin: auto;
+}
+.cabecalho ul{
+        display: flex;
+        gap: 28px;
+}
+.cabecalho li{
+        display: flex;
+        font-size: 15pt;
+        font-family:'Helvetica' ;
+}

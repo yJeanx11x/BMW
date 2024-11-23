@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+ul {
+  list-style: none;
+}
+a{
+  text-decoration: none;
+color: black;
+}
+.pag {
+  display: grid;
+}
+.pag header {
+  grid-column: 1/4;
+}
+.pag main {
+  grid-column: 1/4;
+}
+.pag section {
+  grid-column: 1/4;
+
+}
+.pag footer {
+  grid-column: 1/4;
+
+}
