@@ -15,6 +15,7 @@ color: black;
 }
 .pag header {
   grid-column: 1/4;
+  
 }
 .pag main {
   grid-column: 1/4;
@@ -25,5 +26,6 @@ color: black;
 }
 .pag footer {
   grid-column: 1/4;
+  background-color: aqua;
 
 }
