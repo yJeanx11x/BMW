@@ -26,6 +26,6 @@ color: black;
 }
 .pag footer {
   grid-column: 1/4;
-  background-color: aqua;
-
+  padding: 45px;
+  background-color: hsla(0, 0%, 0%, 0.329);
 }

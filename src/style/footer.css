@@ -1,0 +1,43 @@
+footer {
+  display: grid;
+}
+.footer{
+  width: 1590px;
+  display: flex;
+  margin: auto;
+justify-content: space-between;
+}
+
+.contato p{
+ padding-block: 15px;
+}
+.contato a:hover{
+        color: #ffffff7e;
+        transition: 0.5s ease;
+}
+.quemsomos {
+  width: 450px;
+}
+.quemsomos h1 {
+  text-align: center;
+}
+.quemsomos p {
+  text-align: center;
+  margin-top: 20px;
+}
+.formulario {
+  width: 250px;
+  height: 250px;
+  text-align: center;
+}
+.formulario input {
+  margin: auto;
+  display: flex;
+  width: 240px;
+  text-align: center;
+  margin-bottom: 10px;
+  padding: 8px;
+}
+.formu{
+        margin: 10px;
+}
